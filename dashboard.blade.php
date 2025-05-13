@@ -1,4 +1,4 @@
-// resources/views/auth/dashboard.blade.php
+// resources/views/dashboard.blade.php
 
 <!DOCTYPE html>
 <html lang="ka">
