@@ -1,5 +1,6 @@
 // resources/views/auth/login-register.blade.php
 
+
 <!DOCTYPE html>
 <html lang="ka">
 <head>
